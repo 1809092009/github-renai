@@ -1,4 +1,4 @@
-# github-renai
+# Prokom-Renaisha
 Pemrograman Komputer
 
 Hai! 👋
