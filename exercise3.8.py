@@ -1,4 +1,4 @@
-places = ["Japan", "Switzerland", "Paris", "Italy", "Australia"]
+places = ["Japan", "Switzerland", "South Korea", "Italy", "Australia"]
 
 # Print the list in its original order
 print(places)
@@ -17,4 +17,16 @@ print(places)
 
 # Change the order of the list
 places.reverse()
+print(places)
+
+# Change the order of the list back to its original order
+places.reverse()
+print(places)
+
+# Change the list to alphabetical order
+places.sort()
+print(places)
+
+# Change the list to reverse-alphabetical order
+places.sort(reverse=True)
 print(places)
